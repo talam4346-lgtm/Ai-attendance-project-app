@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "ai-attendance-project-app": {
+      "root": "AI-Attendance-Project/ai-attendance-project-app",
+      "runtime": "python"
+    },
+    "ai-attendance-project-landing": {
+      "root": "AI-Attendance-Project/ai-attendance-project-landing",
+      "framework": "flask"
+    }
+  },
+  "rewrites": []
+}
