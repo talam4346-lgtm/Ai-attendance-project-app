@@ -1,0 +1,22 @@
+{
+  "teachers": [
+    {
+      "username": "Tanveer Alam",
+      "password": "$2b$12$FNt1WtdRj/hEyfMQOPX99ObOxigmLfITZANqlGzpRqCN3.gOgtA7y",
+      "name": "Tanveer",
+      "teacher_id": 1
+    }
+  ],
+  "students": [],
+  "subjects": [
+    {
+      "subject_code": "E1PY208",
+      "name": "Software Engineering",
+      "section": "11",
+      "teacher_id": 1,
+      "subject_id": 1
+    }
+  ],
+  "enrollments": [],
+  "attendance": []
+}
